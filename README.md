@@ -1,6 +1,6 @@
 # dashboard_vendas
 
-![GitHub Logo](dashboard_vendas.png)
+![GitHub Logo](dashboard.png)
 
 
 INtrodução dos dados
