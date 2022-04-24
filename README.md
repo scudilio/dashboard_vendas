@@ -1,12 +1,19 @@
-# dashboard_vendas
+# **Dashboard de People Analytics**
+
+
 
 ![GitHub Logo](dashboard.png)
 
 
-INtrodução dos dados
+## **Introdução dos dados**
 
+Fazer a gestão dos seus funcionários e necessário para manter uma empresa funcionando. Conhecer o custo total dos funcionários, nível de satisfação, número de má contratações, LTV dos funcionários, turnover são algumas métricas necessárias para uma boa gestão da empresa. 
 o objetivo da sua analise
 
-principais conclusões 
+**Problema** : Melhorar o turnover fazendo o acompanhamento da jornada funcionário na empresa
 
-Para maiores informações acesse:( https://app.powerbi.com/view?r=eyJrIjoiYmZmNDYxNTMtOGEzOS00MmMyLTk0ODQtYjkyZGMyNTljMWEwIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9&pageName=ReportSection)
+**Dataset**: Dados foram extraídos do kaggle 
+
+**Conclusão**: Temos poucas más contratações, um turnover de menos de 6%, no ano de 2016 tivemos mais demissões do que contratações e a maioria dos funcionários vem 
+
+Para maiores informações acesse:( https://app.powerbi.com/view?r=eyJrIjoiMTA1NjcyYjktNDcwMC00ZGZlLTk1MWMtN2Q0ZWUyZDRkY2NkIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9)
